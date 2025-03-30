@@ -1,110 +1,88 @@
 ---
-title: Curso
+title: Corso
 nav_order: 1
 ---
 
+# Corso di Pensiero Computazionale per Docenti
 
-# Curso de Pensamiento Computacional para Docentes
-
-Este curso está diseñado para introducir a los participantes en el pensamiento computacional mediante la computación física con Protobject, facilitando el aprendizaje con recursos multimedia, documentos y actividades prácticas.
+Questo corso è progettato per introdurre i partecipanti al pensiero computazionale attraverso la computazione fisica con Protobject, facilitando l'apprendimento con risorse multimediali, documenti e attività pratiche.
 {: .fs-6 .fw-300 }
 
-## **1. Introducción al Pensamiento Computacional**
+## **1. Introduzione al Pensiero Computazionale**
 
-Explora los fundamentos del pensamiento computacional y cómo Protobject facilita su enseñanza.
+Esplora i fondamenti del pensiero computazionale e come Protobject facilita il suo insegnamento.
 
-- **🎥 [¿Qué es el pensamiento computacional?](https://youtu.be/eJvEFlAZV94){:target="_blank"}**  
-  _Explicación de los fundamentos._  
+- **🎥 [Cos'è il pensiero computazionale?](https://youtu.be/eJvEFlAZV94){:target="_blank"}**  
+  _Spiegazione dei fondamenti._  
 
-- **📄 [Pensamiento computacional](https://docs.google.com/document/d/1yZQRYugSmuXdxZOhWRK07fKgNLLVU9KRzqLwVcuTI-U/view){:target="_blank"}**  
-  _Importancia del pensamiento computacional en el siglo XXI._  
+- **📄 [Pensiero computazionale](https://docs.google.com/document/d/1yZQRYugSmuXdxZOhWRK07fKgNLLVU9KRzqLwVcuTI-U/view){:target="_blank"}**  
+  _Importanza del pensiero computazionale nel XXI secolo._  
 
-- **🎥 [¿Qué es Protobject?](https://youtu.be/FQSB5xwQbNg){:target="_blank"}**
-  _Introducción a la plataforma._  
+- **🎥 [Cos'è Protobject?](https://youtu.be/FQSB5xwQbNg){:target="_blank"}**
+  _Introduzione alla piattaforma._  
 
-- **📄 [La plataforma Protobject](https://docs.google.com/document/d/1eYW7aZyacsopGRUD32FTprl2Zs_Ia0_aBORhstaaus8/view){:target="_blank"}**  
-  _Aplicación en entornos educativos._  
-
----
-
-## **2. Conocimiento de sensores y actuadores en smartphones**  
-Descubre cómo los sensores y actuadores permiten la interacción con el entorno.  
-
-- **🎥 [Introducción a sensores y actuadores](https://youtu.be/dgZ2Jk8_AOE){:target="_blank"}**  
-  _Capacidades extendidas de los smartphones._  
-
-- **📄 [Sensores y actuadores en smartphones](https://docs.google.com/document/d/14ZLY-q-YR4PADQeq_nqyh29q7wkdVitMRFyFXYt8Sps/view){:target="_blank"}**  
-  _Funcionamiento y aplicaciones._  
-
-- **🎥 [Componentes de Protobject](https://youtu.be/He9BBtYKvM8){:target="_blank"}**
-  _Posibilidades que ofrece Protobject._  
+- **📄 [La piattaforma Protobject](https://docs.google.com/document/d/1eYW7aZyacsopGRUD32FTprl2Zs_Ia0_aBORhstaaus8/view){:target="_blank"}**  
+  _Applicazione negli ambienti educativi._  
 
 ---
 
-## **3. Introducción a la Programación**  
-Explora los conceptos básicos de programación con Protobject.  
+## **2. Conoscenza dei sensori e attuatori negli smartphone**  
+Scopri come i sensori e gli attuatori permettono l'interazione con l'ambiente.  
 
-- **🎥 [Conceptos básicos de programación](https://youtu.be/xP4NqHs2d1s){:target="_blank"}**  
-  _Una introducción con ejemplos prácticos._  
+- **🎥 [Introduzione a sensori e attuatori](https://youtu.be/dgZ2Jk8_AOE){:target="_blank"}**  
+  _Capacità avanzate degli smartphone._  
 
-- **📄 [Actividades introductorias](https://docs.google.com/document/d/1e5vmErpgMqiR86s9yKjufPF4VXGy7wUDLB5wSFgGM84/view){:target="_blank"}**  
-  _Ejercicios prácticos para comenzar con Protobject._  
+- **📄 [Sensori e attuatori negli smartphone](https://docs.google.com/document/d/14ZLY-q-YR4PADQeq_nqyh29q7wkdVitMRFyFXYt8Sps/view){:target="_blank"}**  
+  _Funzionamento e applicazioni._  
 
----
-
-## **4. Avanzando en la Programación**  
-Profundiza en tu comprensión de la programación con Protobject.  
-
-- **📄 [Actividades avanzadas](https://docs.google.com/document/d/1868rjReHp25JGl-3h7d7BTAFFpshCvc1V5tKjoUu784/view){:target="_blank"}**  
-  _Explora conceptos y aplicaciones más complejos._  
+- **🎥 [Componenti di Protobject](https://youtu.be/He9BBtYKvM8){:target="_blank"}**
+  _Le possibilità offerte da Protobject._  
 
 ---
 
-## **5. Diseño de actividades de aprendizaje**  
-Criterios y estrategias para diseñar actividades efectivas con Protobject.  
+## **3. Introduzione alla Programmazione**  
+Esplora i concetti base della programmazione con Protobject.  
 
-- **🎥 [¿Cómo diseñar actividades de aprendizaje?](https://youtu.be/7RdgQQDJdh4){:target="_blank"}**  
-  _Criterios y recomendaciones._  
+- **🎥 [Concetti base di programmazione](https://youtu.be/xP4NqHs2d1s){:target="_blank"}**  
+  _Un'introduzione con esempi pratici._  
 
-- **📄 [Estructura y diseño de actividades de proyecto](https://docs.google.com/document/d/1LFoXi45UgD16Dw6TwNS7DX9qtmz74b0yUDHQlLQhKvI/edit){:target="_blank"}**  
-  _Pautas para diseñar y utilizar ChatGPT._  
-
----
-
-## **6. Aprendizaje basado en proyectos**  
-Cómo aplicar **ABP (Aprendizaje Basado en Proyectos)** en el aula con Protobject.  
-
-- **🎥 [Introducción al ABP](https://youtu.be/JqOrtqkwYxk){:target="_blank"}**  
-  _Aplicación del ABP y sus fases._  
-
-- **📄 [Aprendizaje basado en proyectos](https://docs.google.com/document/d/1o2veCQDr0KueCa7WDaks0awb7-YmZdzMpt-kf1TmwEI/view){:target="_blank"}**  
-  _Una guía para comenzar y usar ChatGPT._  
-
-- **🎥 [¿Cómo fomentar la creatividad?](https://youtu.be/ZYZ5VgxhLVM){:target="_blank"}**  
-  _Consejos para desarrollar proyectos más creativos._  
-
-- **📄 [Fomentar soluciones creativas en el aula](https://docs.google.com/document/d/1tS2yl6IAhd10J8Zpt1PYcHfYITxvthTVf3CRZuv-rjQ/view){:target="_blank"}**  
-  _Una guía para fomentar la creatividad._  
-
-- **📄 [Ejemplo de ABP con Protobject](https://docs.google.com/document/d/1n0vtJpm-NkEElaIKg0dz0v6yFU8hXCmzSnkLbTViE20/edit){:target="_blank"}**  
-  _3 ejemplos para guiarte en el desarrollo del ABP._  
-
-- **📄 [Planificación del aprendizaje basado en proyectos](https://docs.google.com/document/d/1A90zvJR9gOxkuak58Bb7Nd6Nl-wfnZ1oH7xC3viQNo0/view){:target="_blank"}**  
-  _Un marco para ayudar a estructurar tus ideas de ABP._
+- **📄 [Attività introduttive](https://docs.google.com/document/d/1e5vmErpgMqiR86s9yKjufPF4VXGy7wUDLB5wSFgGM84/view){:target="_blank"}**  
+  _Esercizi pratici per iniziare con Protobject._  
 
 ---
 
-## **7. Evaluación sumativa y formativa**  
-Importancia y estrategias para evaluar el aprendizaje.  
+## **4. Avanzamento nella Programmazione**  
+Approfondisci la tua comprensione della programmazione con Protobject.  
 
-- **🎥 [¿Qué es la evaluación sumativa y formativa?](https://youtu.be/voDn6xjnbn0){:target="_blank"}**  
-  _La relevancia de la evaluación formativa._  
+- **📄 [Attività avanzate](https://docs.google.com/document/d/1868rjReHp25JGl-3h7d7BTAFFpshCvc1V5tKjoUu784/view){:target="_blank"}**  
+  _Esplora concetti e applicazioni più complessi._  
 
-- **📄 [Evaluación sumativa y formativa](https://docs.google.com/document/d/1drEdltUN_pSDcC6HS8Y6ZPgG4DGRar7VwM0zpIbejcI/view){:target="_blank"}**  
-  _Una guía para docentes._  
+---
 
-- **🎥 [Usando Google Forms para evaluaciones](https://youtu.be/0pOsagYH8y0){:target="_blank"}**
-  _Un enfoque práctico._  
+## **5. Progettazione di attività di apprendimento**  
+Criteri e strategie per progettare attività efficaci con Protobject.  
 
-- **📄 [Creando preguntas de evaluación](https://docs.google.com/document/d/1v9ZflcRdYkSe_6YBwOu92-6oRw-YvuAXr7z_PgFt4LM/view){:target="_blank"}**  
-  _Estrategias para usar ChatGPT._  
+- **🎥 [Come progettare attività di apprendimento?](https://youtu.be/7RdgQQDJdh4){:target="_blank"}**  
+  _Criteri e raccomandazioni._  
+
+- **📄 [Struttura e progettazione di attività di progetto](https://docs.google.com/document/d/1LFoXi45UgD16Dw6TwNS7DX9qtmz74b0yUDHQlLQhKvI/edit){:target="_blank"}**  
+  _Linee guida per progettare e utilizzare ChatGPT._  
+
+---
+
+## **6. Apprendimento basato su progetti**  
+Come applicare **ABP (Apprendimento Basato su Progetti)** in aula con Protobject.  
+
+- **🎥 [Introduzione all'ABP](https://youtu.be/JqOrtqkwYxk){:target="_blank"}**  
+  _Applicazione dell'ABP e le sue fasi._  
+
+- **📄 [Apprendimento basato su progetti](https://docs.google.com/document/d/1o2veCQDr0KueCa7WDaks0awb7-YmZdzMpt-kf1TmwEI/view){:target="_blank"}**  
+  _Una guida per iniziare e usare ChatGPT._  
+
+- **🎥 [Come stimolare la creatività?](https://youtu.be/ZYZ5VgxhLVM){:target="_blank"}**  
+  _Consigli per sviluppare progetti più creativi._  
+
+- **📄 [Stimolare soluzioni creative in aula](https://docs.google.com/document/d/1tS2yl6IAhd10J8Zpt1PYcHfYITxvthTVf3CRZuv-rjQ/view){:target="_blank"}**  
+  _Una guida per stimolare la creatività._  
+
+- **📄 [Esempio di ABP con Protobject](https://docs.google.com/document/d/1n0vtJpm-NkEElaIKg0dz0v6yFU8hXCmzSnkLbTViE20**
