@@ -1,78 +1,74 @@
 ---
-title: Physical kit
+title: Kit físico
 nav_order: 30
 ---
 
 
-# Physical Kit  
+# Kit Físico  
 
-Protobject has been primarily designed to work on smartphones **without the need for additional hardware**. However, we have developed a **physical kit** for Protobject that allows you to use the platform with an **Arduino** or a **simple robot** for those who wish to experiment with these components.  
+Protobject ha sido diseñado principalmente para funcionar en teléfonos inteligentes **sin necesidad de hardware adicional**. Sin embargo, hemos desarrollado un **kit físico** para Protobject que te permite utilizar la plataforma con un **Arduino** o un **robot simple** para aquellos que deseen experimentar con estos componentes.  
 {: .fs-6 .fw-300 }
 
 ---
 
 ## **ProtoArduino**  
 
-Protobject features a device called **ProtoArduino** that allows you to use an **Arduino Leonardo** as input and/or output by connecting it to the smartphone’s USB port. To use this device, it is necessary to **program an Arduino Leonardo** with our firmware. Once programmed, it can be used without the need to install any application on the smartphone or computer; everything works through the **Protobject web interface**.  
+Protobject cuenta con un dispositivo llamado **ProtoArduino** que permite usar un **Arduino Leonardo** como entrada y/o salida al conectarlo al puerto USB del teléfono inteligente. Para utilizar este dispositivo, es necesario **programar un Arduino Leonardo** con nuestro firmware. Una vez programado, se puede utilizar sin necesidad de instalar ninguna aplicación en el teléfono o computadora; todo funciona a través de la **interfaz web de Protobject**.  
 
-The **ProtoArduino** device offers blocks to:  
-- Read **three analog inputs** and **three digital inputs** from Arduino (on pins A1, A2, A3 and D7, D8, D9).  
-- Control up to **two servos** (D5 and D6).  
-- Control **three PWM digital pins** (D3, D11, and D13).  
+El dispositivo **ProtoArduino** ofrece bloques para:  
+- Leer **tres entradas analógicas** y **tres entradas digitales** del Arduino (en los pines A1, A2, A3 y D7, D8, D9).  
+- Controlar hasta **dos servos** (D5 y D6).  
+- Controlar **tres pines digitales PWM** (D3, D11 y D13).  
 
-This allows you to **virtually extend Protobject** with dozens of sensors and actuators compatible with Arduino.  
+Esto te permite **extender virtualmente Protobject** con docenas de sensores y actuadores compatibles con Arduino.  
 
-The following video demonstrates how to control a **servo** using a **potentiometer** and shows the set of blocks used to program this example.  
+El siguiente video muestra cómo controlar un **servo** utilizando un **potenciómetro** y muestra el conjunto de bloques utilizados para programar este ejemplo.  
 
 {% include video_embed.html video_id="rfaN7I_fsaQ" %}
 
-{% raw %}
-<iframe loading="lazy" src="https://app.protobject.com/generate?zz-arduinoservo&amp;en&amp;dynamic&amp;-0" width="100%" height="250px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
-{% endraw %}
+[Ver el código de ejemplo](https://app.protobject.com/generate?zz-arduinoservo&amp;es&amp;dynamic&amp;-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+
 
 ## **ProtoRobot**  
 
-Another device within Protobject is called **ProtoRobot**. This device allows you to control a **3D-printed robot**, and, like everything in Protobject, it operates through a smartphone installed directly on the robot. ProtoRobot utilizes an **Arduino Leonardo** to control two servos that enable its movement.  
+Otro dispositivo dentro de Protobject se llama **ProtoRobot**. Este dispositivo permite controlar un **robot impreso en 3D**, y, como todo en Protobject, funciona a través de un teléfono inteligente instalado directamente en el robot. ProtoRobot utiliza un **Arduino Leonardo** para controlar dos servos que permiten su movimiento.  
 
-To use ProtoRobot, it is connected to the smartphone through its **USB port**. Similar to ProtoArduino, once it’s programmed with our firmware, there’s no need to install any applications on the smartphone or computer. Everything operates through the same **Protobject web interface**.  
+Para usar ProtoRobot, se conecta al teléfono inteligente a través de su **puerto USB**. Al igual que ProtoArduino, una vez que se programa con nuestro firmware, no es necesario instalar ninguna aplicación en el teléfono o computadora. Todo opera a través de la misma **interfaz web de Protobject**.  
 
-Below, there’s a video and the code for an example of using ProtoRobot, which can be controlled by tilting the smartphone. (For this purpose, the device that detects smartphone tilts is used).  
-
+A continuación, se encuentra un video y el código para un ejemplo de uso de ProtoRobot, que se puede controlar inclinando el teléfono inteligente. (Para este propósito, se utiliza el dispositivo que detecta las inclinaciones del teléfono).  
 
 {% include video_embed.html video_id="dmJY-3cZqfU" %}
 
-{% raw %}
-<iframe loading="lazy" src="https://app.protobject.com/generate?zz-robot2&amp;en&amp;dynamic&amp;-0" width="100%" height="550px" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
-{% endraw %}
+[Ver el código de ejemplo](https://app.protobject.com/generate?zz-robot2&amp;es&amp;dynamic&amp;-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 
+## **Componentes**  
 
-## **Components**  
+El [firmware](https://framework.protobject.com/components/arduino.html) requerido para el funcionamiento de **ProtoArduino** es el mismo que se utiliza para **ProtoRobot**. Es decir, una vez que un **Arduino Leonardo** se programa con este firmware, el dispositivo se puede utilizar como ambos:  
+- Un controlador para las entradas y salidas de Arduino  
+- Para controlar ProtoRobot  
 
-The [firmware](https://framework.protobject.com/components/arduino.html) required for the operation of **ProtoArduino** is the same as that used for **ProtoRobot**. In other words, once an **Arduino Leonardo** is programmed with this firmware, the device can be used as both:  
-- A controller for Arduino inputs and outputs  
-- To control ProtoRobot  
+El **kit físico** de Protobject está compuesto por los siguientes componentes:  
 
-The **physical kit** of Protobject is composed of the following components:  
-
-### **General Components:**  
+### **Componentes generales:**  
 - 1 **Arduino Leonardo**  
-- 1 **USB-C to USB Nano** cable (or another for connecting the smartphone to Arduino)  
-- **Firmware** for Arduino Leonardo  
+- 1 **cable USB-C a USB Nano** (o otro para conectar el teléfono inteligente al Arduino)  
+- **Firmware** para Arduino Leonardo  
 
-### **Specific Components for ProtoArduino:**  
-- 1 **Arduino support** (optional, for added convenience during development)  
+### **Componentes específicos para ProtoArduino:**  
+- 1 **soporte para Arduino** (opcional, para mayor comodidad durante el desarrollo)  
 
-### **Specific Components for ProtoRobot:**  
-- **Robot base**  
-- 2 **front wheels**  
-- 2 **rear wheels**  
-- 2 **nuts for the wheels**  
-- 1 **smartphone holder**  
-- 2 **smartphone clamps**  
-- 2 **nuts for the smartphone**  
-- 2 **continuous servos FS90R**  
-- 1 **female-female cable**  
-- 3 **male-male cables**  
-- 4 **small elastics**  
-- 2 **medium-sized elastics** (optional, for the robot to function on uneven surfaces)  
+### **Componentes específicos para ProtoRobot:**  
+- **Base del robot**  
+- 2 **ruedas delanteras**  
+- 2 **ruedas traseras**  
+- 2 **tuercas para las ruedas**  
+- 1 **soporte para teléfono inteligente**  
+- 2 **sujeciones para teléfono inteligente**  
+- 2 **tuercas para el teléfono inteligente**  
+- 2 **servos continuos FS90R**  
+- 1 **cable hembra-hembra**  
+- 3 **cables macho-macho**  
+- 4 **elásticos pequeños**  
+- 2 **elásticos medianos** (opcionales, para que el robot funcione en superficies irregulares)

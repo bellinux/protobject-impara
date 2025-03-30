@@ -3,11 +3,11 @@ title: JavaScript
 nav_order: 40
 ---
 
-# Coding with Protobject  
+# Programación con Protobject  
 
-Protobject uses **visual blocks** with **Blockly** and is **not directly compatible with JavaScript**. However, you can use **Protobject Framework** to create projects with JavaScript.
+Protobject utiliza **bloques visuales** con **Blockly** y **no es compatible directamente con JavaScript**. Sin embargo, puedes utilizar **Protobject Framework** para crear proyectos con JavaScript.
 {: .fs-6 .fw-300 }
 
-[Explore Protobject Framework →](https://framework.protobject.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+**Nota:** El **Protobject Framework** está disponible solo en inglés.
 
-
+[Explorar Protobject Framework →](https://framework.protobject.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}

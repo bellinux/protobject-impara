@@ -4,17 +4,24 @@ nav_order: 2
 ---
 
 
-# Educational Playlists for Computational Thinking
+# Listas de Reproducción Educativas para el Pensamiento Computacional
 
-Explore our curated playlists designed to help you use Protobject to teach computational thinking. Each playlist groups videos by topic, covering essential concepts, hands-on activities, and creative applications to engage learners of all levels.  
+Explora nuestras listas de reproducción seleccionadas diseñadas para ayudarte a usar Protobject para enseñar pensamiento computacional. Cada lista agrupa videos por tema, cubriendo conceptos esenciales, actividades prácticas y aplicaciones creativas para involucrar a los estudiantes de todos los niveles.  
 {: .fs-6 .fw-300 }
+
+---
+
+{% include playlist_embed.html preview_video_id="iRyriJA1urY" playlist_link="https://www.youtube.com/watch?v=iRyriJA1urY&list=PLudqmkJ6JIlWrzijGgrOOF_ICqdscieeu" %}
+
+## Proyectos Paso a Paso
+Esta lista de reproducción te guía a través de proyectos prácticos y creativos hechos paso a paso utilizando Protobject. Ideal para aquellos que quieren aprender mientras construyen, cada proyecto está diseñado para enseñar conceptos de pensamiento computacional de manera interactiva y divertida.
 
 
 ---
 
 
-{% include playlist_embed.html preview_video_id="SaZ4_BbYDUQ" playlist_link="https://www.youtube.com/watch?v=SaZ4_BbYDUQ&list=PLudqmkJ6JIlXS4CjSzHMXkKf01thbJT0B" %}
+{% include playlist_embed.html preview_video_id="4Ov--PkfDsc" playlist_link="https://www.youtube.com/watch?v=4Ov--PkfDsc&list=PLudqmkJ6JIlUwojRGp5sbHa47PTYHpPNK" %}
 
-## Basic Tutorials
-This playlist introduces you to the fundamentals of Protobject, guiding you through the essential features and first steps. Perfect for beginners looking to explore computational thinking through hands-on activities. 
 
+## Tutoriales Básicos
+Esta lista de reproducción te introduce a los fundamentos de Protobject, guiándote a través de las características esenciales y los primeros pasos. Perfecto para principiantes que desean explorar el pensamiento computacional a través de actividades prácticas.
