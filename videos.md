@@ -1,27 +1,19 @@
 ---
-title: Videos
+title: Video
 nav_order: 2
 ---
 
 
-# Listas de Reproducción Educativas para el Pensamiento Computacional
+# Playlist Educative per il Pensiero Computazionale
 
-Explora nuestras listas de reproducción seleccionadas diseñadas para ayudarte a usar Protobject para enseñar pensamiento computacional. Cada lista agrupa videos por tema, cubriendo conceptos esenciales, actividades prácticas y aplicaciones creativas para involucrar a los estudiantes de todos los niveles.  
+Esplora le nostre playlist selezionate progettate per aiutarti a usare Protobject per insegnare il pensiero computazionale. Ogni playlist raccoglie video per tema, coprendo concetti essenziali, attività pratiche e applicazioni creative per coinvolgere gli studenti di tutti i livelli.  
 {: .fs-6 .fw-300 }
 
 ---
 
-{% include playlist_embed.html preview_video_id="iRyriJA1urY" playlist_link="https://www.youtube.com/watch?v=iRyriJA1urY&list=PLudqmkJ6JIlWrzijGgrOOF_ICqdscieeu" %}
+{% include playlist_embed.html preview_video_id="jiW3Zux8m50" playlist_link="https://www.youtube.com/watch?v=jiW3Zux8m50&list=PLudqmkJ6JIlXEybl1eEy8Bv6eYqAgnz9K" %}
 
-## Proyectos Paso a Paso
-Esta lista de reproducción te guía a través de proyectos prácticos y creativos hechos paso a paso utilizando Protobject. Ideal para aquellos que quieren aprender mientras construyen, cada proyecto está diseñado para enseñar conceptos de pensamiento computacional de manera interactiva y divertida.
-
-
----
+## Tutorial di Base
+Questa playlist ti introduce ai fondamenti di Protobject, guidandoti attraverso le caratteristiche essenziali e i primi passi. Perfetta per i principianti che desiderano esplorare il pensiero computazionale tramite attività pratiche.
 
 
-{% include playlist_embed.html preview_video_id="4Ov--PkfDsc" playlist_link="https://www.youtube.com/watch?v=4Ov--PkfDsc&list=PLudqmkJ6JIlUwojRGp5sbHa47PTYHpPNK" %}
-
-
-## Tutoriales Básicos
-Esta lista de reproducción te introduce a los fundamentos de Protobject, guiándote a través de las características esenciales y los primeros pasos. Perfecto para principiantes que desean explorar el pensamiento computacional a través de actividades prácticas.
