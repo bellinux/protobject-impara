@@ -85,4 +85,25 @@ Come applicare **ABP (Apprendimento Basato su Progetti)** in aula con Protobject
 - **📄 [Stimolare soluzioni creative in aula](https://docs.google.com/document/d/1tS2yl6IAhd10J8Zpt1PYcHfYITxvthTVf3CRZuv-rjQ/view){:target="_blank"}**  
   _Una guida per stimolare la creatività._  
 
-- **📄 [Esempio di ABP con Protobject](https://docs.google.com/document/d/1n0vtJpm-NkEElaIKg0dz0v6yFU8hXCmzSnkLbTViE20**
+- **📄 [Esempio di ABP con Protobject](https://docs.google.com/document/d/1n0vtJpm-NkEElaIKg0dz0v6yFU8hXCmzSnkLbTViE20/edit){:target="_blank"}**  
+  _3 esempi per guidarti nello sviluppo dell'ABP._  
+
+- **📄 [Pianificazione dell'apprendimento basato su progetti](https://docs.google.com/document/d/1A90zvJR9gOxkuak58Bb7Nd6Nl-wfnZ1oH7xC3viQNo0/view){:target="_blank"}**  
+  _Un quadro per aiutarti a strutturare le tue idee di ABP._
+
+---
+
+## **7. Valutazione sommativa e formativa**  
+Importanza e strategie per valutare l'apprendimento.  
+
+- **🎥 [Cos'è la valutazione sommativa e formativa?](https://youtu.be/voDn6xjnbn0){:target="_blank"}**  
+  _L'importanza della valutazione formativa._  
+
+- **📄 [Valutazione sommativa e formativa](https://docs.google.com/document/d/1drEdltUN_pSDcC6HS8Y6ZPgG4DGRar7VwM0zpIbejcI/view){:target="_blank"}**  
+  _Una guida per i docenti._  
+
+- **🎥 [Utilizzare Google Forms per le valutazioni](https://youtu.be/0pOsagYH8y0){:target="_blank"}**
+  _Un approccio pratico._  
+
+- **📄 [Creare domande di valutazione](https://docs.google.com/document/d/1v9ZflcRdYkSe_6YBwOu92-6oRw-YvuAXr7z_PgFt4LM/view){:target="_blank"}**  
+  _Strategie per usare ChatGPT._  
