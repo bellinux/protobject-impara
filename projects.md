@@ -1,13 +1,13 @@
 ---
-title: Proyectos
+title: Progetti
 nav_order: 20
 ---
 
-# Explora Ideas Creativas en Instructables  
+# Esplora Idee Creative su Instructables  
 
-Explora nuestra colección de proyectos emocionantes disponibles en Instructables.  
+Esplora la nostra collezione di progetti entusiasmanti disponibili su Instructables.  
 {: .fs-6 .fw-300 }
 
-**Nota:** Los proyectos en Instructables están disponibles solo en inglés.
+**Nota:** I progetti su Instructables sono disponibili solo in inglese.
 
-[Ir a Instructable](https://www.instructables.com/member/Protobject/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Vai su Instructable](https://www.instructables.com/member/Protobject/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
