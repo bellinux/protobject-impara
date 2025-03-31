@@ -18,7 +18,7 @@ Esplora i fondamenti del pensiero computazionale e come Protobject facilita il s
 - **📄 [Pensiero computazionale](https://docs.google.com/document/d/1XMAxT3C-zoaJEnhAUtRHCmuVkizng50vt0ja1H24w7o/view){:target="_blank"}**  
   _Importanza del pensiero computazionale nel XXI secolo._  
 
-- **🎥 [Cos'è Protobject?](https://youtu.be/FQSB5xwQbNg){:target="_blank"}**
+- **🎥 [Cos'è Protobject?](https://youtu.be/FQSB5xwQbNg){:target="_blank"}**  
   _Introduzione alla piattaforma._  
 
 - **📄 [La piattaforma Protobject](https://docs.google.com/document/d/1vzLG7lwe6T8jeB3dqtpfvabSEfjS7hkv-laI_j6iZpo/view){:target="_blank"}**  
@@ -35,7 +35,7 @@ Scopri come i sensori e gli attuatori permettono l'interazione con l'ambiente.
 - **📄 [Sensori e attuatori negli smartphone](https://docs.google.com/document/d/1A-_8Qk5NqZuuPEFUEzS3b5noKMWBqH745nX4phuxmZk/view){:target="_blank"}**  
   _Funzionamento e applicazioni._  
 
-- **🎥 [Componenti di Protobject](https://youtu.be/He9BBtYKvM8){:target="_blank"}**
+- **🎥 [Componenti di Protobject](https://youtu.be/He9BBtYKvM8){:target="_blank"}**  
   _Le possibilità offerte da Protobject._  
 
 ---
@@ -102,7 +102,7 @@ Importanza e strategie per valutare l'apprendimento.
 - **📄 [Valutazione sommativa e formativa](https://docs.google.com/document/d/135a07wLmnhfHAzXoJoHRbaNtLwR9G6RJgx4QPZ1jzmY/view){:target="_blank"}**  
   _Una guida per i docenti._  
 
-- **🎥 [Utilizzare Google Forms per le valutazioni](https://youtu.be/0pOsagYH8y0){:target="_blank"}**
+- **🎥 [Utilizzare Google Forms per le valutazioni](https://youtu.be/0pOsagYH8y0){:target="_blank"}**  
   _Un approccio pratico._  
 
 - **📄 [Creare domande di valutazione](https://docs.google.com/document/d/1EB16hntPfsh24pbSETExLZu6_-3SKtuglcl9eHRbPD8/view){:target="_blank"}**  
