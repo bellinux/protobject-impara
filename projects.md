@@ -12,6 +12,7 @@ Esplora la nostra collezione di progetti entusiasmanti disponibili su Instructab
 
 [Vai su Instructable](https://www.instructables.com/member/Protobject/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
+---
 
 ## Progetti in evidenza
 
@@ -27,14 +28,13 @@ title_right="Misuratore di Attività Fisica"
 desc_right="Monitora la tua attività fisica in tempo reale."
 %}
 
+
+
 {% include instructables.html 
 img_left="https://content.instructables.com/FZJ/DG52/M8OIAOSV/FZJDG52M8OIAOSV.gif?format=jpg" 
 link_left="https://www.instructables.com/Build-a-Motion-Activated-Alarm/"
 title_left="Allarme Attivato dal Movimento"
 desc_left="Crea un sistema di allarme intelligente usando la fotocamera per rilevare movimenti e attivare un segnale sonoro in tempo reale."
 
-img_right="" 
-link_right=""
-title_right=""
-desc_right=""
+
 %}
