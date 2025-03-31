@@ -20,8 +20,8 @@
     <p>{{ include.desc_left }}</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-
-            <div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
+       {% if include.link_right %}
+       <div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
             <a href="{{ include.playlist_link_right }}" target="_blank" style="display: block; position: relative;">
                 <img src="https://img.youtube.com/vi/{{ include.preview_video_id_right }}/maxresdefault.jpg" alt="Video preview" style="display: block; width: 100%; height: auto;">
                 <div class="overlay">
@@ -31,8 +31,14 @@
                 </div>
             </a>
         </div>
-
-    <h2>{{ include.title_right }}</h2>
-    <p>{{ include.desc_left }}</p>
+    
+        <h2>{{ include.title_right }}</h2>
+        <p>{{ include.desc_left }}</p>
+        {% endif %}
   </div>
 </div>
+
+
+
+
+
