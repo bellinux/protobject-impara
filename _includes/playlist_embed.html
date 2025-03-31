@@ -1,10 +1,38 @@
-<div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
-    <a href="{{ include.playlist_link }}" target="_blank" style="display: block; position: relative;">
-        <img src="https://img.youtube.com/vi/{{ include.preview_video_id }}/maxresdefault.jpg" alt="Video preview" style="display: block; width: 100%; height: auto;">
-        <div class="overlay">
-            <svg viewBox="0 0 100 100" class="play-button">
-                <polygon points="30,20 80,50 30,80" fill="white" />
-            </svg>
+
+
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+
+      <div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
+            <a href="{{ include.playlist_link }}" target="_blank" style="display: block; position: relative;">
+                <img src="https://img.youtube.com/vi/{{ include.preview_video_id }}/maxresdefault.jpg" alt="Video preview" style="display: block; width: 100%; height: auto;">
+                <div class="overlay">
+                    <svg viewBox="0 0 100 100" class="play-button">
+                        <polygon points="30,20 80,50 30,80" fill="white" />
+                    </svg>
+                </div>
+            </a>
         </div>
-    </a>
+      
+    <h2>Tutorial di Base</h2>
+    <p>Questa playlist ti introduce ai fondamenti di Protobject...</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+
+            <div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
+            <a href="{{ include.playlist_link1 }}" target="_blank" style="display: block; position: relative;">
+                <img src="https://img.youtube.com/vi/{{ include.preview_video_id1 }}/maxresdefault.jpg" alt="Video preview" style="display: block; width: 100%; height: auto;">
+                <div class="overlay">
+                    <svg viewBox="0 0 100 100" class="play-button">
+                        <polygon points="30,20 80,50 30,80" fill="white" />
+                    </svg>
+                </div>
+            </a>
+        </div>
+
+    <h2>Pensiero Computazionale per docenti</h2>
+    <p>Esplora il pensiero computazionale...</p>
+  </div>
 </div>
