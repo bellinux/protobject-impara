@@ -26,3 +26,15 @@ link_right="https://www.instructables.com/Build-a-Physical-Activity-Meter-With-P
 title_right="Misuratore di Attività Fisica"
 desc_right="Monitora la tua attività fisica in tempo reale."
 %}
+
+{% include instructables.html 
+img_left="https://content.instructables.com/FZJ/DG52/M8OIAOSV/FZJDG52M8OIAOSV.gif?format=jpg" 
+link_left="https://www.instructables.com/Build-a-Motion-Activated-Alarm/"
+title_left="Allarme Attivato dal Movimento"
+desc_left="Crea un sistema di allarme intelligente usando la fotocamera per rilevare movimenti e attivare un segnale sonoro in tempo reale."
+
+img_right="" 
+link_right=""
+title_right=""
+desc_right=""
+%}
