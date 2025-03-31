@@ -12,8 +12,13 @@ Esplora le nostre playlist selezionate progettate per aiutarti a usare Protobjec
 ---
 
 {% include playlist_embed.html 
-preview_video_id="2NpFTsn4daU" 
-playlist_link="https://www.youtube.com/watch?v=2NpFTsn4daU&list=PLudqmkJ6JIlVT-LiQ-XNumdtCELWFnh11"
-preview_video_id1="2NpFTsn4daU" 
-playlist_link1="https://www.youtube.com/watch?v=2NpFTsn4daU&list=PLudqmkJ6JIlVT-LiQ-XNumdtCELWFnh11"
+preview_video_id_left="jiW3Zux8m50" 
+playlist_link_left="https://www.youtube.com/watch?v=jiW3Zux8m50&list=PLudqmkJ6JIlXEybl1eEy8Bv6eYqAgnz9K"
+title_left="Tutorial di Base"
+desc_left="Questa playlist ti introduce ai fondamenti di Protobject, guidandoti attraverso le caratteristiche essenziali e i primi passi. Perfetta per i principianti che desiderano esplorare il pensiero computazionale tramite attività pratiche."
+
+preview_video_id_right="2NpFTsn4daU" 
+playlist_link_right="https://www.youtube.com/watch?v=2NpFTsn4daU&list=PLudqmkJ6JIlVT-LiQ-XNumdtCELWFnh11"
+title_right="Pensiero Computazionale per docenti"
+desc_right="Esplora il pensiero computazionale e scopri come Protobject facilita il suo insegnamento attraverso programmazione, sensori e apprendimento basato su progetti."
 %}
