@@ -19,6 +19,6 @@ desc_left="Questa playlist ti introduce ai fondamenti di Protobject, guidandoti 
 
 preview_video_id_right="2NpFTsn4daU" 
 playlist_link_right="https://www.youtube.com/watch?v=2NpFTsn4daU&list=PLudqmkJ6JIlVT-LiQ-XNumdtCELWFnh11"
-title_right="Pensiero Computazionale per docenti"
+title_right="Pensiero Computazionale per Docenti"
 desc_right="Esplora il pensiero computazionale e scopri come Protobject facilita il suo insegnamento attraverso programmazione, sensori e apprendimento basato su progetti."
 %}
