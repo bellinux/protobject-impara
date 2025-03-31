@@ -17,6 +17,9 @@
     <h2>{{ include.title_left }}</h2>
     <p>{{ include.desc_left }}</p>
   </div>
+
+  {% if include.link_right %}
+  
   <div style="flex: 1; min-width: 300px;">
 
             <div style="position: relative; width:100%; max-width: 600px; cursor: pointer; display: inline-block; margin-top: 10px;">
@@ -34,4 +37,5 @@
     <h2>{{ include.title_right }}</h2>
     <p>{{ include.desc_right }}</p>
   </div>
+    {% endif %}
 </div>
