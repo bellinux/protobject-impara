@@ -2,4 +2,5 @@ remote_theme: just-the-docs/just-the-docs
 title: Impara Protobject
 description: Materials, videos, documents, and more to help you learn Protobject.
 logo: "/assets/images/logo.svg"
+logo_link: https://protobject.com
 search_enabled: false
