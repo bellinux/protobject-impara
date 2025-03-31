@@ -16,7 +16,7 @@ Esplora la nostra collezione di progetti entusiasmanti disponibili su Instructab
 
 ## Progetti in evidenza
 
-{% include instructables.html 
+{% include projects_columns.html 
 img_left="https://content.instructables.com/F4C/CQZP/M8PXQE0L/F4CCQZPM8PXQE0L.gif?format=jpg" 
 link_left="https://www.instructables.com/Tilt-Sensor-Easily-Check-and-Adjust-Frame-Alignmen/"
 title_left="Verifica e Regola l’Allineamento dei Quadri"
@@ -30,7 +30,7 @@ desc_right="Monitora la tua attività fisica in tempo reale."
 
 
 
-{% include instructables.html 
+{% include projects_columns.html 
 img_left="https://content.instructables.com/FZJ/DG52/M8OIAOSV/FZJDG52M8OIAOSV.gif?format=jpg" 
 link_left="https://www.instructables.com/Build-a-Motion-Activated-Alarm/"
 title_left="Allarme Attivato dal Movimento"
