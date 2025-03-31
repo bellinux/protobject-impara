@@ -2,5 +2,4 @@ remote_theme: just-the-docs/just-the-docs
 title: Impara Protobject
 description: Materiali, video, documenti e altro per aiutarti a imparare Protobject.
 logo: "/assets/images/logo.svg"
-logo_link: https://protobject.com
 search_enabled: false
