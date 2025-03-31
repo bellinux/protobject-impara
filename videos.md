@@ -14,8 +14,6 @@ Esplora le nostre playlist selezionate progettate per aiutarti a usare Protobjec
 {% include playlist_embed.html 
 preview_video_id="2NpFTsn4daU" 
 playlist_link="https://www.youtube.com/watch?v=2NpFTsn4daU&list=PLudqmkJ6JIlVT-LiQ-XNumdtCELWFnh11"
-
 preview_video_id1="2NpFTsn4daU" 
 playlist_link1="https://www.youtube.com/watch?v=2NpFTsn4daU&list=PLudqmkJ6JIlVT-LiQ-XNumdtCELWFnh11"
-
 %}
